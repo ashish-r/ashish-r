@@ -3,7 +3,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 18 July, 2020 - 25 July, 2020
+
+JavaScript   1 min           █████████████████████░░░░   86.39 % 
+SCSS         0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 %
 ```
 <!--END_SECTION:waka-->
 
