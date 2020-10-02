@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 -------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-r)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
