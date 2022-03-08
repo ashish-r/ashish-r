@@ -7,9 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                 6 hrs 41 mins   ██████████████████▓░░░░░░   74.76 %
-SCSS                       1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
-Other                      24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+JavaScript                 8 hrs 4 mins    ████████████████████░░░░░   80.59 %
+SCSS                       1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+Other                      24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 ```
 
 <!--END_SECTION:waka-->
