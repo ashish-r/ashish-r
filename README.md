@@ -7,7 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   3 hrs 35 mins   █████████████████████░░░░   84.25 %
+ERB          21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+YAML         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+SCSS         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Ruby         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
